@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 === EDULAB ===
 
 
@@ -476,3 +477,6 @@ figcaption h3
 {
 	background: #f3f3f3;
 }
+=======
+# braindy-website
+>>>>>>> 875f11409b052c16157f7fe81ab585924febf1f8
